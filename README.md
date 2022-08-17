@@ -1,4 +1,4 @@
-# hrigved_code_sample
+# registerpg_code_sample
 
 
 A new Flutter project.
